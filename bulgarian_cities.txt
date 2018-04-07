@@ -1,0 +1,257 @@
+ Aheloy
+ Ahtopol
+ Aksakovo
+ Albania
+ Alfatar
+ Andorra
+ Antonovo
+ Apriltsi
+ Ardino
+ Asenovgrad
+ Aytos
+ Balchik
+ Balgarovo
+ Bankya
+ Bansko
+ Banya
+ Batak
+ Batanovtsi
+ Belene
+ Belitsa
+ Belogradchik
+ Beloslav
+ Belovo
+ Berkovitsa
+ Blagoevgrad
+ Boboshevo
+ Bobov Dol
+ Bolyarovo
+ Borovo
+ Botevgrad
+ Boychinovtsi
+ Bozhurishte
+ Bratsigovo
+ Bregovo
+ Breznik
+ Brezovo
+ Brusartsi
+ Buhovo
+ Burgas
+ Byala Cherkva
+ Byala Slatina
+ Chepelare
+ Chernomorets
+ Cherven Bryag
+ Chiprovtsi
+ Chirpan
+ Dalgopol
+ Debelets
+ Devin
+ Devnya
+ Dimitrovgrad
+ Dimovo
+ Dobrich
+ Dobrinishte
+ Dolna Banya
+ Dolna Mitropoliya
+ Dolna Oryahovitsa
+ Dolni Chiflik
+ Dolni Dabnik
+ Dospat
+ Dragoman
+ Dryanovo
+ Dulovo
+ Dunavtsi
+ Dupnitsa
+ Dve Mogili
+ Dzhebel
+ Elena
+ Elhovo
+ Elin Pelin
+ Etropole
+ Gabrovo
+ Galabovo
+ Glavinitsa
+ Glodzhevo
+ Godech
+ Gorna Oryahovitsa
+ Gotse Delchev
+ Gramada
+ Gulyantsi
+ Gurkovo
+ Hadzhidimovo
+ Harmanli
+ Haskovo
+ Hisarya
+ Ignatievo
+ Iskar
+ Isperih
+ Ivaylovgrad
+ Kableshkovo
+ Kalofer
+ Kameno
+ Kaolinovo
+ Kardzhali
+ Karlovo
+ Karnobat
+ Kaspichan
+ Kavarna
+ Kazakhstan
+ Kazanlak
+ Kermen
+ Kilifarevo
+ Kiten
+ Klisura
+ Knezha
+ Kocherinovo
+ Koprivshtitsa
+ Kostandovo
+ Kostenets
+ Kostinbrod
+ Kotel
+ Koynare
+ Kozloduy
+ Kran
+ Kresna
+ Krichim
+ Krivodol
+ Krumovgrad
+ Kubrat
+ Kuklen
+ Kula
+ Kyustendil
+ Laki
+ Letnitsa
+ Levski
+ Lom
+ Lovech
+ Loznitsa
+ Lukovit
+ Lyaskovets
+ Lyubimets
+ Madan
+ Madzharovo
+ Maglizh
+ Malko Tarnovo
+ Melnik
+ Merichleri
+ Mezdra
+ Miziya
+ Momchilgrad
+ Momin Prohod
+ Montana
+ Nagorno-Karabakh
+ Nedelino
+ Nesebar
+ Nikolaevo
+ Nikopol
+ Nova Zagora
+ Novi Iskar
+ Novi Pazar
+ Obzor
+ Omurtag
+ Opaka
+ Oryahovo
+ Panagyurishte
+ Parvomay
+ Pavel Banya
+ Pavlikeni
+ Pazardzhik
+ Pernik
+ Perushtitsa
+ Peshtera
+ Petrich
+ Pirdop
+ Pirin
+ Plachkovtsi
+ Pleven
+ Pliska
+ Plovdiv
+ Poland
+ Pomorie
+ Popovo
+ Pordim
+ Pravets
+ Primorsko
+ Provadia
+ Provadiya
+ Radnevo
+ Radomir
+ Rakitovo
+ Rakovski
+ Razgrad
+ Razlog
+ Rila
+ Rudozem
+ Ruse
+ Sadovo
+ Saedinenie
+ Samokov
+ Sandanski
+ Sapareva Banya
+ Sarnitsa
+ Senovo
+ Septemvri
+ Sevlievo
+ Shabla
+ Shipka
+ Shivachevo
+ Shumen
+ Silistra
+ Simeonovgrad
+ Simitli
+ Slavyanovo
+ Sliven
+ Slivnitsa
+ Slivo Pole
+ Smolyan
+ Smyadovo
+ Sofia
+ Sopot
+ Sozopol
+ Sredets
+ Stamboliyski
+ Stara Zagora
+ Straldzha
+ Strazhitsa
+ Strelcha
+ Suhindol
+ Sungurlare
+ Suvorovo
+ Svalbard
+ Sveti Vlas
+ Svilengrad
+ Svishtov
+ Svoge
+ Targovishte
+ Tervel
+ Teteven
+ Topolovgrad
+ Trastenik
+ Troyan
+ Tsar Kaloyan
+ Tsardom
+ Tsarevo
+ Tutrakan
+ Tvarditsa
+ Ugarchin
+ Valchedram
+ Valchi Dol
+ Varbitsa
+ Varna
+ Varshets
+ Veliki Preslav
+ Veliko Tarnovo
+ Velingrad
+ Vetovo
+ Vetren
+ Vidin
+ Vratsa
+ Yablanitsa
+ Yakoruda
+ Yambol
+ Zavet
+ Zemen
+ Zlataritsa
+ Zlatitsa
+ Zlatograd
