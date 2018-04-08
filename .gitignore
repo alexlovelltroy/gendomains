@@ -1,2 +1,3 @@
 *.zone
 *.zone.rev4
+dhcpd.conf
